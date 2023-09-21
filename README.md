@@ -1,5 +1,7 @@
-## Hi there, I am Pratama Ramadhani Wijaya👋
+## Welcome to my Profile
+Hello! I'm Rama. Currently studying Information System at Institut Teknologi Telkom Surabaya. I am heavily interested in UI/UX Designer and Web Developer.
 
+### Skill:
 <p align="left">
 <a href="https://github.com/ramadhani059">
   <img width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramadhani059&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
