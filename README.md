@@ -19,11 +19,12 @@ Hello! I'm Rama. Currently studying Information System at Institut Teknologi Tel
 </p>
 
 ### Contact Me :
- <a href="https://www.linkedin.com/in/ramadhani059/">
-  
-!["google.com"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/ramadhani059/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:pratamaramadhaniwijaya@gmail.com">
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ### Visitor :
 ![Visitor Count](https://profile-counter.glitch.me/ramadhani059/count.svg)
