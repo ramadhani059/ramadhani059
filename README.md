@@ -1,5 +1,5 @@
 ## Welcome to my Profile
-Hello! I'm Rama. Currently studying Information System at Institut Teknologi Telkom Surabaya. I am heavily interested in UI/UX Designer and Web Developer.
+Hello! I'm Rama. I am an Information System graduate at Institut Teknologi Telkom Surabaya. I am heavily interested in UI/UX Designer and Web Developer.
 
 ### Skill:
 <p align="left">
